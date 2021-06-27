@@ -22,7 +22,8 @@
 ![График на 500 повторов с лин.масштабом](https://psv4.userapi.com/c505536/u466252744/docs/d4/49b5875a72d1/2.png?extra=KuApBxlmV9MF3VJwMKSJ80JHhaIPJzf--JQgzBwUQhDqCSWemtcB2KFSN60nAwyz9ydkA7v_9DI82rOib2HPXQMvbCkxZJgmTjhETaMvcMm2r09MEzhCQwCfE7oezrJnC_wxNrrkA5Z7kJrDaDhjVeLeAg)
 
 TODO:
-[x] Максимально ускорить программу;
-[x] Переписать под `CMake`;
-[x] Подключить Intel C++ Compiler (ICC) и добавить необходимые ключи в `Makefile`;
-[ ] Распараллелить с помощью `TBB` или `OpenMP`. 
+
+- [x] Максимально ускорить программу;
+- [x] Переписать под `CMake`;
+- [x] Подключить Intel C++ Compiler (ICC) и добавить необходимые ключи в `Makefile`;
+- [ ] Распараллелить с помощью `TBB` или `OpenMP`. 
